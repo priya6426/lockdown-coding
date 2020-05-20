@@ -51,7 +51,7 @@ public class Frequency {
 	        System.out.println("Frequency of N is: "+c7); 
 	        System.out.println("Frequency of D is: "+c8); 
 	        System.out.println("Frequency of - is: "+c9); 
-	    }  
+	}  
 	  
 
 }
